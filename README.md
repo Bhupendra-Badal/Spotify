@@ -1,2 +1,3 @@
 # Spotify
-This is my first html, css project
+This is my first GIT Repository.
+Author - Bhupendra Badal
